@@ -1,4 +1,4 @@
-<h1>Implementing a SIEM in Microsoft Azure and mapping live cyber attacks</h1>
+<h1>Implementing a SIEM in Microsoft Azure and Mapping Live Cyber Attacks</h1>
 
 
 <h2>Description</h2>
