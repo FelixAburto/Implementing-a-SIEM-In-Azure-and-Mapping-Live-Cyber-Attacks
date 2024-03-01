@@ -6,7 +6,7 @@
 </b
 <br />
 <br />
-This project will consist of creating a vulnerable virtual machine that will act as our honeypot then creating a Log Aggregation Workspace to transfer our logs from the virtual machine. Next we will set up Microsft Sentinel and connect our virtual machine logs to it via the Log Aggregation Workspace. Finally we will create map that illustrates failed RDP login attempts from all over the world. 
+This project will consist of creating a vulnerable virtual machine that will act as our honeypot then creating a Log Aggregation Workspace to transfer our logs from the virtual machine. Next we will set up Microsoft Sentinel and connect our virtual machine logs to it via the Log Aggregation Workspace. Finally we will create map that illustrates failed RDP login attempts from all over the world. 
 <br />
 <br />
 
